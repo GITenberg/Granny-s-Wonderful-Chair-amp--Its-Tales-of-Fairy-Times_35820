@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '31739'
     url: http://www.gutenberg.org/2009/agents/31739
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35820#Granny-s-Wonderful-Chair-amp--Its-Tales-of-Fairy-Times
 gutenberg_issued: '2011-04-10'
 gutenberg_type: Text
 identifiers:
