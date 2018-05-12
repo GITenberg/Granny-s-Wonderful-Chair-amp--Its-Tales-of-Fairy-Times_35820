@@ -1,0 +1,42 @@
+_repo: Granny-s-Wonderful-Chair-amp--Its-Tales-of-Fairy-Times_35820
+_version: 0.1.0
+alternative_title: Granny's Wonderful Chair and Its Tales of Fairy Times
+contributor:
+  commentator:
+    agent_name: Radford, Dollie
+    alias: Radford, D. (Dollie)
+    gutenberg_agent_id: '37919'
+    url: http://www.gutenberg.org/2009/agents/37919
+  illustrator:
+    agent_name: Curtis, Dora
+    alias: Curtis, D. (Dora)
+    gutenberg_agent_id: '37920'
+    url: http://www.gutenberg.org/2009/agents/37920
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Browne, Frances
+    birthdate: 1816
+    deathdate: 1879
+    gutenberg_agent_id: '31739'
+    url: http://www.gutenberg.org/2009/agents/31739
+description: ''
+gutenberg_issued: '2011-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, English'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: Introductory -- The Christmas Cuckoo -- The lords of the white and
+  grey castles -- The greedy shepherd -- The story of Fairyfoot -- The story of Childe
+  Charity -- Sour and Civil -- The story of Merrymind -- Prince Wisewit's return.
+title: Granny's Wonderful Chair & Its Tales of Fairy Times
+url: http://www.gutenberg.org/ebooks/35820
